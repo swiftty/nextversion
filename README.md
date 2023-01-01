@@ -5,7 +5,7 @@ GitHub Actions to get the next version from tag.
 
 ```yml
 steps:
-- uses: swiftty/nextversion@v0.0.1
+- uses: swiftty/nextversion@v0.0.0
   with: 
     bump: patch
 ```
